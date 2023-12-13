@@ -1,0 +1,9 @@
+export MODULE_NAME=madrid.natural
+export FUNCTION_NAME=natural
+export ITEM_SCALE=1.1 
+export GROUP_SCALE=1000
+export DATA_PATH=/home/goat/projects/geospatial_svg/data/Madrid-shp/shape/natural.shp
+export DESTINATION_PATH=/home/goat/projects/geospatial_svg/__generated/madrid_natural_12_13.svg
+export STYLE_PATH=/home/goat/projects/geospatial_svg/madrid/style.css
+export CENTER_X=-4.0
+export CENTER_Y=40.3

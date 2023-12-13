@@ -1,6 +1,0 @@
-ITEM_SCALE=1.1 
-GROUP_SCALE=10000
-DATA_PATH=data/Madrid-shp/shape/natural.shp
-DEST_PATH=__generated/madrid_natural_11_29.svg
-STYLE_PATH=style.css
-FUNC_NAME=madrid_natural
